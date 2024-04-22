@@ -1,0 +1,15 @@
+/workspaces/test2/bin/Debug/net6.0/test2
+/workspaces/test2/bin/Debug/net6.0/test2.deps.json
+/workspaces/test2/bin/Debug/net6.0/test2.runtimeconfig.json
+/workspaces/test2/bin/Debug/net6.0/test2.dll
+/workspaces/test2/bin/Debug/net6.0/test2.pdb
+/workspaces/test2/obj/Debug/net6.0/test2.csproj.AssemblyReference.cache
+/workspaces/test2/obj/Debug/net6.0/test2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/test2/obj/Debug/net6.0/test2.AssemblyInfoInputs.cache
+/workspaces/test2/obj/Debug/net6.0/test2.AssemblyInfo.cs
+/workspaces/test2/obj/Debug/net6.0/test2.csproj.CoreCompileInputs.cache
+/workspaces/test2/obj/Debug/net6.0/test2.dll
+/workspaces/test2/obj/Debug/net6.0/refint/test2.dll
+/workspaces/test2/obj/Debug/net6.0/test2.pdb
+/workspaces/test2/obj/Debug/net6.0/test2.genruntimeconfig.cache
+/workspaces/test2/obj/Debug/net6.0/ref/test2.dll
