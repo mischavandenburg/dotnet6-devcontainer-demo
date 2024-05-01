@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/test2/test2.csproj",
-      "projectName": "test2",
-      "projectPath": "/workspaces/test2/test2.csproj",
+      "projectUniqueName": "/workspaces/dotnet6-devcontainer-demo/dotnet6-devcontainer-demo.csproj",
+      "projectName": "dotnet6-devcontainer-demo",
+      "projectPath": "/workspaces/dotnet6-devcontainer-demo/dotnet6-devcontainer-demo.csproj",
       "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/workspaces/test2/obj/",
+      "outputPath": "/workspaces/dotnet6-devcontainer-demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vscode/.nuget/NuGet/NuGet.Config"
@@ -55,6 +55,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

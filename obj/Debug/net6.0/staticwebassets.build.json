@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5TpKBjCjtchsvFFcQdAQT51cxdOuibzwRhV4APrRCZ0=",
+  "Source": "dotnet6-devcontainer-demo",
+  "BasePath": "_content/dotnet6-devcontainer-demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

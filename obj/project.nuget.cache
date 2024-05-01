@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DJ2QJZnreTDCF0srmXU9UkckD/0a3vb6iFUayXBkPmB4q4BTE/xO/sutamB4EwyGx2W90RhubI48UkdBp1bKDw==",
+  "dgSpecHash": "yuk1ds/iRI8u3va3YsINQZZ0Xzljs/VMVAc8RM3GopqWVDz8NZnMdC2K/yUqC/bdGiqfqMceo5Glw05eT7WDVg==",
   "success": true,
-  "projectFilePath": "/workspaces/test2/test2.csproj",
+  "projectFilePath": "/workspaces/dotnet6-devcontainer-demo/dotnet6-devcontainer-demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
